@@ -1,0 +1,1 @@
+print(colorama.Fore.GREEN + str(arr))
